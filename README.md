@@ -2,6 +2,8 @@
 
 This is a basic URL Shortener App: 
 Made using Flask in Backend and Bulma Framework.
+This web app has a simple service where you can put in your URL and get a condensed URL which can be used anywhere on the web.
+Also , along with this we have a stats table, where you can get the list of links shortened and also the number of times the links have been opened.
 
 In order to run this locally on your system , Steps to follow :
 
